@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Maksim Berjoza"]
   s.email       = ["maksim.berjoza@gmail.com"]
   s.homepage    = "https://github.com/torbjon/json2-rails"
-  s.summary     = " with Rails asset pipeline"
+  s.summary     = "Crockford's json2, json with Rails asset pipeline"
   s.description = ""
   s.license     = "MIT"
 end

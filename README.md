@@ -18,3 +18,11 @@ Then `bundle install`.
 Add the following to your `app/assets/javascripts/application.js`:
 
     //= require json2
+
+    //= require cycle.js
+
+    //= require json.js
+
+    //= require json_parse.js
+
+    //= require json_parse_state.js
