@@ -19,10 +19,10 @@ Add the following to your `app/assets/javascripts/application.js`:
 
     //= require json2
 
-    //= require cycle.js
+    //= require cycle
 
-    //= require json.js
+    //= require json
 
-    //= require json_parse.js
+    //= require json_parse
 
-    //= require json_parse_state.js
+    //= require json_parse_state
