@@ -1,5 +1,5 @@
 module Json2
   module Rails
-    VERSION = "1.1.0"
+    VERSION = "1.15.05.18"
   end
 end
